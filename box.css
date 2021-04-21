@@ -1,0 +1,17 @@
+
+body{
+    text-align: center;
+    background-color:wheat;
+
+}
+#header1{
+    margin-top: 40;
+    border: 2px solid palevioletred ;
+    background-color: plum;
+    margin: 80px;
+    height: 20px;
+    font-size: 30px;
+    padding: 20px;
+    
+
+}
